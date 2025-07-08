@@ -258,7 +258,6 @@
 
 .footer-box-block{
     display: flex;
-    padding: 0px;
 }
 .subscribe-box {
     width: 210.6px;
@@ -408,6 +407,7 @@
     }
     .feature-section {
         display: block;
+        padding-top: 24px;
     }
     .left-text-box {
      padding: 0px;
